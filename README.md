@@ -1,2 +1,3 @@
 # bookstore-angular-dio
-E-commerce Bookstore com aplicação Angular
+Santander Bootcamp 2022 // FullStack Developer
+E-commerce Bookstore com aplicação Angular.
