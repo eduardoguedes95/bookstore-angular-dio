@@ -1,4 +1,6 @@
 # bookstore-angular-dio
+Santander Bootcamp 2022 // FullStack Developer <br>
+E-commerce Bookstore com aplicação Angular.
 
 ## Informações referentes ao projeto
 - API utilizada: https://api.itbook.store/#api-overview
@@ -29,6 +31,3 @@
 ### Mais ajuda
 
 - Para obter mais ajuda sobre a CLI Angular, use `ng help` ou confira a página [Visão Geral da CLI Angular e Referência de Comando](https://angular.io/cli).
-
-Santander Bootcamp 2022 // FullStack Developer <br>
-E-commerce Bookstore com aplicação Angular.
