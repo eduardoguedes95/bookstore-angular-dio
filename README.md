@@ -1,7 +1,5 @@
 # bookstore-angular-dio
 
-# BookStoreFront
-
 ## Informações referentes ao projeto
 - API utilizada: https://api.itbook.store/#api-overview
 
